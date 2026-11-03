@@ -1,0 +1,10 @@
+requests>=2.31.0
+pandas>=2.2.0
+yt-dlp>=2024.5.1               # metadados de YouTube, TikTok, X, Kwai, Instagram, Facebook...
+ddgs>=3.0.0                    # busca web (DuckDuckGo) com filtro site:
+rapidfuzz>=3.0.0               # similaridade de texto
+Pillow>=9.0.0                  # hash perceptual das thumbnails
+faster-whisper>=1.0.0          # transcrição dos cortes (cortes.py)
+av<17                          # av 17+ quebra o decode_audio do faster-whisper 1.2
+nvidia-cublas-cu12             # GPU para o Whisper (sem isso: WHISPER_DISPOSITIVO=cpu)
+nvidia-cudnn-cu12==9.*
