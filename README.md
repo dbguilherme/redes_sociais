@@ -219,7 +219,7 @@ Desenho do estudo principal, com **coleta manual**. A planilha tem as abas
 - **Controles:** views coletadas com a mesma idade (sugestão: 7 dias); rótulos
   de tom, emocionalidade e formato, para separar o viés político do viés de
   engajamento.
-- **Janela:** 30 a 90 dias após o 2º turno (24/11/2026 a 23/01/2027).
+- **Janela:** a ser definida.
 - **O que dá para afirmar:** diferenças de alcance da rede como um todo
   (algoritmo + público + criadores). Não dá para isolar o efeito do algoritmo,
   porque não há contas de teste. Há viés de seleção: só entram perfis que
